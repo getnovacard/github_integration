@@ -1,0 +1,34 @@
+{
+    "1": {
+        "repository": "card_calinbule",
+        "generate_vcf": "1",
+        "avatar_update": "0",
+        "config": {
+            "page_title": "Calin-Gabriel Bule - novacard.ro",
+            "description": "Novacard profile calinbule",
+            "baseurl": "/",
+            "url": "https://calinbule.novacard.ro",
+            "avatar": "avatar.png",
+            "contact-first_name": "Calin-Gabriel",
+            "contact-last_name": "Bule",
+            "contact-title": "Inginer Software",
+            "contact-company": "Nova Card",
+            "contact-email": "calin@novacard.ro",
+            "contact-phone": "+40757846420",
+            "contact-website": "https://novacard.ro",
+            "contact-facebook_url": "",
+            "contact-linkedin_url": "https://www.linkedin.com/in/calinbule",
+            "contact-instagram_url": "",
+            "contact-pinterest_url": "",                                          
+            "contact-twitter_url": "",                                           
+            "contact-youtube_url": "",                                             
+            "contact-snapchat_url": "",                                             
+            "contact-whatsapp_url": "",                                             
+            "contact-tiktok_url": "",                                              
+            "contact-telegram_url": "",                                            
+            "contact-skype_url": "",                                                
+            "contact-github_url": "",                                              
+            "contact-gitlab_url": ""
+        }                                              
+    }
+}
