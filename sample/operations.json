@@ -1,0 +1,32 @@
+{
+    "repository": "",
+    "generate_vcf": "",
+    "avatar_update": "",
+    "config": {
+        "page_title": "",
+        "description": "",
+        "baseurl": "/",
+        "url": "",
+        "avatar": "",
+        "contact-first_name": "",
+        "contact-last_name": "",
+        "contact-title": "",
+        "contact-company": "",
+        "contact-email": "",
+        "contact-phone": "",
+        "contact-website": "",
+        "contact-facebook_url": "",
+        "contact-linkedin_url": "",
+        "contact-instagram_url": "",
+        "contact-pinterest_url": "",                                          
+        "contact-twitter_url": "",                                           
+        "contact-youtube_url": "",                                             
+        "contact-snapchat_url": "",                                             
+        "contact-whatsapp_url": "",                                             
+        "contact-tiktok_url": "",                                              
+        "contact-telegram_url": "",                                            
+        "contact-skype_url": "",                                                
+        "contact-github_url": "",                                              
+        "contact-gitlab_url": ""
+    }                                              
+}

@@ -1,0 +1,38 @@
+
+# Site settings
+page_title: novacard.ro
+description: Novacard profile template_1
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://template1.novacard.ro" # the base hostname & protocol for your site
+
+
+# Identity
+name: Nova Card
+title:
+company:
+
+
+# Contacts
+email: contact@novacard.ro
+phone:
+website: # https://your-website.ltd 
+
+
+# Social settings
+facebook_url: https://www.facebook.com/novacard/           # https://facebook.com/username/
+linkedin_url: https://www.linkedin.com/company/novacard    # https://www.linkedin.com/in/username
+instagram_url: https://www.instagram.com/novacard/         # https://www.instagram.com/username
+pinterest_url:                                             # https://pinterest.com/username
+twitter_url:                                               # https://twitter.com/username
+youtube_url:                                               # https://youtube.com/channel/channel-id
+snapchat_url:                                              # https://snapchat.com/add/
+whatsapp_url:                                              # https://wa.me/your-phone-number-with-country-prefix
+tiktok_url:                                                # https://tiktok.com/@username
+telegram_url:                                              # https://t.me/username
+skype_url:                                                 # https://join.skype.com/invite/user-id
+github_url:                                                # https://github.com/username
+gitlab_url:                                                # https://gitlab.com/username
+
+
+# Build settings
+markdown: kramdown
