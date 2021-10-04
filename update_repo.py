@@ -6,7 +6,7 @@ from modules.utils import create_directory, run_bash_command, delete_directory, 
 from modules.core import update_profile, update_avatar, generate_vcf
 
 
-# Importing configurations from "config.json"
+#  Importing configurations from "config.json"
 config_file = 'config.json'
 
 with open(config_file, 'r') as f:
